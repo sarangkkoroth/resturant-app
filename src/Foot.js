@@ -8,7 +8,7 @@ function Foot() {
             <p>
             No. 27, Mosque Road, Frazer Town, 
 Bangalore - 560 005. INDIA
-PH      : 080 49336333, 41487066,65739230
+PH      : 080 4s93sa36333, 41487066,65739230
 Email   :info@PUNJABIDHABA90.in
 PUNJABIDHABA90@gmail.com 
             </p>

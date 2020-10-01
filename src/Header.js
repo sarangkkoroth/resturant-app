@@ -4,7 +4,7 @@ import "./Header.css";
 function Game() {
   return (
     <div className="header">
-      <Link to="/">
+      <Link to="/home">
       <img
         className="header_image"
         src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5f903011869197.5629131312994.jpg"

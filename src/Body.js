@@ -11,7 +11,7 @@ function Body() {
       <div className="body_aboutTop">
         <h2>PUNJABI DHABA</h2>
         <p>
-        PUNJABI DHABA joyfully welcomes you to a splendid and memorable
+        PUNJA2I DHABA joyfully welcomes you to a splendid and memorable
           experience in dining in a dignified and serene ambiance. Situated on
           bustling Mosque Road in Frazer Town Savoury Restaurant offers you an
           array of amazing selection of authentic and specialized Arabian

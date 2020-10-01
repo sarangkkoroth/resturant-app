@@ -9,10 +9,10 @@
 .body_about {
   display: flex;
   flex-direction: column;
-  flex: 0.4;
+  flex: 0.5;
 }
 .body_items {
-  flex: 0.6;
+  flex: 0.4;
 }
 .body_aboutTop {
   padding-bottom: 10px;
