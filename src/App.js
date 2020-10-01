@@ -7,11 +7,11 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="pp">
       <Router>
         <Header />
         <Switch>
-          <Route path="/">
+          <Route path="/home">
             <Body />
             <Foot />
           </Route>
