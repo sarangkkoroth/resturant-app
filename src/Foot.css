@@ -1,0 +1,25 @@
+.foot{
+    display: flex;
+    background: #f0c14b;
+    align-items: center;
+    justify-content: space-between;
+}
+.foot_coloumn1{
+    flex: .4;
+    padding-left: 10px;
+}
+.foot_coloumn2{
+    flex: .2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.foot_coloumn3{
+    flex: .4;
+}
+.foot_coloumn2>img{
+    width: 50px;
+    height: auto;
+}

@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: center;
+
+  
+}
+.header_image {
+    border-radius: 50px;
+  width: 1500px;
+  height: auto;
+}

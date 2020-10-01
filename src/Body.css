@@ -1,0 +1,51 @@
+.body {
+  display: flex;
+  justify-content: center;
+  max-width: 2000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+.body_about {
+  display: flex;
+  flex-direction: column;
+  flex: 0.4;
+}
+.body_items {
+  flex: 0.6;
+}
+.body_aboutTop {
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+}
+li {
+  position: relative;
+  padding: 6px;
+}
+
+.body_items{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.body_itemRow{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.body_aboutReadmore{
+  background: #f0c14b;
+    border: 1px solid;
+    
+  float: right;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 150px; 
+    border-radius: 5px; 
+}
+.body_aboutBottom{
+  margin-top: 10px;
+  justify-content: space-between;
+}

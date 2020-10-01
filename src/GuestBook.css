@@ -1,0 +1,30 @@
+.guestbook {
+  display: flex;
+  flex-direction: column;
+  background-color: #f0c14b;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.col1,
+.col2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.col2 {
+  margin-left: 10px;
+}
+.container {
+  display: flex;
+}
+.button{
+    background: #f6f7e9 ;
+    border: 1px solid;  
+     float: right;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 150px; 
+    border-radius: 5px; 
+}
